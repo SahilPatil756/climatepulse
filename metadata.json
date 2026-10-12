@@ -1,0 +1,8 @@
+{
+  "name": "ClimatePulse — Live Climate Impact Dashboard",
+  "description": "Real-time climate analytics dashboard tracking global weather, air quality index (AQI), environmental trends, anomalies, and AI-powered insights using public APIs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
