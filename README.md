@@ -344,5 +344,3 @@ gcloud run deploy climatepulse \
 
 ## 📄 License
 Distributed under the Apache-2.0 License.
-#   c l i m a t e p u l s e  
- 
